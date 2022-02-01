@@ -1,0 +1,3 @@
+! Custom Blocklist for the children
+
+||youtube.com^
